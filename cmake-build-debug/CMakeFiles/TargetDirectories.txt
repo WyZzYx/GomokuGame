@@ -1,0 +1,3 @@
+/Users/vitaliikoltok/CLionProjects/UTPProjectGomoku/cmake-build-debug/CMakeFiles/UTPProjectGomoku.dir
+/Users/vitaliikoltok/CLionProjects/UTPProjectGomoku/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vitaliikoltok/CLionProjects/UTPProjectGomoku/cmake-build-debug/CMakeFiles/rebuild_cache.dir
